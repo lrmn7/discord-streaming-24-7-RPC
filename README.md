@@ -63,7 +63,7 @@ git clone <URL REPO>
 </div> 
 
 ###
-<h1 style="text-align: center;"><a href="https://lrmn.is-a.dev/">👉EASY SETUP WITH REPL👈</a></h1>
+<h1 style="text-align: center;"><a href="https://replit.com/@LRMN/Discord-Streaming-247-RPC?v=1">👉EASY SETUP WITH REPL👈</a></h1>
 
 ## Configuration
 
